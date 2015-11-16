@@ -1,0 +1,2 @@
+a:3:{i:0;a:5:{s:4:"data";s:283:"user|a:9:{s:2:"id";s:1:"1";s:8:"username";s:5:"admin";s:11:"displayname";s:13:"Administrator";s:5:"email";s:14:"root@localhost";s:8:"password";s:5:"admin";s:5:"level";s:1:"2";s:7:"created";s:19:"2000-01-01 00:00:00";s:3:"bio";s:28:"<p>I am Administrator!</p>
+";s:6:"avatar";s:0:"";}";s:4:"csrf";b:0;s:2:"ip";s:13:"152.78.236.53";s:5:"agent";s:108:"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36";s:5:"stamp";i:1447590228;}i:1;d:1447590228.3035741;i:2;i:0;}
